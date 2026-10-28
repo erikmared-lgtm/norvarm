@@ -1,0 +1,22 @@
+# Norvarm
+
+> Oberoende svensk guide om bergvärme och luftvärmepumpar, med förmedling av offertförfrågningar till installatörer. Alla sakuppgifter har källa (SGU, Energimyndigheten, Skatteverket). Senast uppdaterad 2026-10-23.
+
+## Sidor
+- [Bergvärme och luftvärmepump – jämför offerter](https://norvarm.se/index.html): Guider om bergvärme och luftvärmepumpar med källor, och offerter från installatörer i ditt område.
+- [Borra för bergvärme – energibrunn](https://norvarm.se/bergvarme-energibrunn.html): Energibrunn för bergvärme: vad som skiljer den från vattenbrunn, statistik från SGU och vad du ska fråga om i offerten.
+- [Luftvärmepump – luft/luft och luft/vatten](https://norvarm.se/luftvarmepump.html): Luft/luft- och luft/vattenvärmepump jämfört med bergvärme: skillnader, vad du ska fråga om och var du hittar myndigheternas råd.
+- [Vad kostar bergvärme och luftvärmepump?](https://norvarm.se/kostnad-varmepump.html): Vad påverkar priset på bergvärme och luftvärmepump, och gäller ROT-avdrag? Inga påhittade schablonpriser.
+- [Vanliga frågor om bergvärme och luftvärmepump](https://norvarm.se/vanliga-fragor-varme.html): Korta svar om bergvärme, luftvärmepump, tillstånd, kostnad och ROT – med källor.
+- [Kunskap om bergvärme och luftvärmepump – alla guider](https://norvarm.se/kunskap.html): Alla guider om bergvärme och luftvärmepumpar.
+- [Om Norvarm – så fungerar jämförelsetjänsten](https://norvarm.se/om-tjansten.html): Så fungerar tjänsten: urval av installatörer, kontakt och hur innehållet tas fram.
+- [Integritetspolicy](https://norvarm.se/integritet.html): Hur Norvarm hanterar personuppgifter.
+- [Få offerter på bergvärme eller luftvärmepump](https://norvarm.se/offert.html): Begär offerter på bergvärme eller luftvärmepump från installatörer i ditt område. Gratis.
+
+## Systersajter
+- [Norbrunn](https://norbrunn.se/): Egen brunn, eget vatten vid torka och kris
+- [Norsolis](https://norsolis.com/): Solceller och batteri för villa och BRF
+- [[AVSALTNINGSPORTAL]](https://[AVSALTNING-DOMÄN]/): Avsaltning av havs- och bräckt vatten
+
+## Offertflöde
+- https://norvarm.se/offert.html: två steg. Steg 1: typ (bergvarme|luftvarmepump|vet-ej), postnummer, hustyp, nuvarande (uppvärmning), tidsplan. Steg 2: namn, epost, telefon (valfritt), meddelande, samtycke. Inget personnummer.

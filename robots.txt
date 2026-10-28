@@ -1,0 +1,21 @@
+# Byt till denna som site/robots.txt VID PUBLICERING (och ta bort noindex i build.py).
+# Tillåter sökmotorer och AI-crawlers uttryckligen.
+User-agent: *
+Allow: /
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+# Google AI (Gemini/Vertex)
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://norvarm.se/sitemap.xml
